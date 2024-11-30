@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chuck E. Cheese Family Restaurant/1.0.0": {
+        "runtime": {
+          "Chuck E. Cheese Family Restaurant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuck E. Cheese Family Restaurant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

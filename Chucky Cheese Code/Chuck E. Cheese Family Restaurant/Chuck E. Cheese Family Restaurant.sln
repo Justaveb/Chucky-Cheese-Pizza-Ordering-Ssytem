@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Chuck E. Cheese Family Restaurant", "Chuck E. Cheese Family Restaurant\Chuck E. Cheese Family Restaurant.vbproj", "{9CE60566-A910-46AF-A889-057E70DDC30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE60566-A910-46AF-A889-057E70DDC30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE60566-A910-46AF-A889-057E70DDC30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE60566-A910-46AF-A889-057E70DDC30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE60566-A910-46AF-A889-057E70DDC30A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE96F2C1-7ABE-42BE-8F0A-9FEF38CA0444}
+	EndGlobalSection
+EndGlobal
